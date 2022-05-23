@@ -12,11 +12,12 @@ body{
     font-family: 'Josefin Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
+    margin-left: 129px;
 }
 
 h1{
     font-weight: bolder;
-    font-size: 35px;
+    font-size: 60px;
     margin: 0%;
 }
 .color{
@@ -28,21 +29,24 @@ h1{
     color: white;
     padding: 10px 20px;
     border-radius: 10px;
+    font-size: 30px;
 }
 p{
     margin: 0%;
+    font-size: 25px;
 }
 section{
+    margin-top: 100px;
     padding-left: 30px;
     max-height: 500px;
 }
 .half-width{
     width: 40%;
     float: left;
-    padding-right: 10px;
+    padding-right: 100px;
 }
 .half-width img{
-    width: 70%;
+    width: 100%;
 }
 .gap{
     padding-top: 40px;

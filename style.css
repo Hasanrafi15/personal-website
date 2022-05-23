@@ -1,0 +1,50 @@
+.topnav a{
+    float: right;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+}
+.topnav{
+    height: 60px;
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 35px;
+    margin: 0%;
+}
+.color{
+    color: tomato;
+}
+.link{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+p{
+    margin: 0%;
+}
+section{
+    padding-left: 30px;
+    max-height: 500px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-right: 10px;
+}
+.half-width img{
+    width: 70%;
+}
+.gap{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
